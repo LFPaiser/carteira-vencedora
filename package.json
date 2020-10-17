@@ -1,0 +1,8 @@
+{
+  "name": "CarteiraVencedora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LFPaiser/carteira-vencedora.git",
+  "author": "Luis Felipe Damiani Paiser <felipe.paiser@gmail.com>",
+  "license": "MIT"
+}
