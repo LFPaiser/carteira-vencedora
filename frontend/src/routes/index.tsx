@@ -1,7 +1,7 @@
 import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 
-import Dashboard from './pages/Dashboard'
+import Dashboard from '../pages/Dashboard'
 
 const Routes: React.FC = () => {
   return (
@@ -10,3 +10,5 @@ const Routes: React.FC = () => {
     </Switch>
   )
 }
+
+export default Routes
